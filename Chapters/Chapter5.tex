@@ -1,0 +1,15 @@
+% Chapter 5
+
+\chapter{Project Development Methodology/Architecture}
+\label{Chapter5}
+
+The proposed solution for achieving the objectives is to implement the UETRV-Pcore by following a detailed ASIC design flow using industry-standard tools:
+\begin{itemize}
+    \item RTL Design: A RISC-V 32-bit processor core implementing the RV32IMAZicsr instruction set architecture (ISA) will be designed. It will include a pipelined architecture with essential stages like instruction fetch, decode, execution, memory access, and writeback.
+    \item Synthesis: The RTL design will be synthesized using Cadence Genus, which will optimize the design for area, timing, and power using the 45nm standard cell library.
+    \item Floorplanning and Placement: The major blocks, such as the processor core, caches, MMU, and peripherals (UART, SPI, CLINT, and PLIC), will be floorplanned and placed logically within the chip area. The placement of standard cells will be optimized to minimize wire lengths and improve timing.
+    \item Clock Tree Synthesis and Routing: A balanced clock tree will be created using Cadence Innovus to ensure uniform clock distribution with minimal skew and latency. The tool will then route the design to connect the cells and peripherals, ensuring it meets electrical, timing, and power requirements.
+    \item Verification and Sign-Off: The routed design will undergo Design Rule Checking (DRC) and Layout vs. Schematic (LVS) verification to ensure compliance with manufacturing rules and match the original schematic.
+    \item GDSII Generation: The final verified design will be exported as a GDSII layout file, ready for fabrication.
+
+\end{itemize}
