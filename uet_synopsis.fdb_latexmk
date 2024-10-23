@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex uet_synopsis"] 1729593529.25374 "uet_synopsis.aux" "uet_synopsis.bbl" "uet_synopsis" 1729641991.01793 0
+["bibtex uet_synopsis"] 0 "uet_synopsis.aux" "uet_synopsis.bbl" "uet_synopsis" 1729643110.56311 -1
   "./references.bib" 1729592250.2163 1856 b7cd97cf03e4461a9b2413a29640d67b ""
   "/usr/share/texmf-dist/bibtex/bst/natbib/plainnat.bst" 1727349926 26816 ffe5423d2019860bad9f54bc402fac15 ""
-  "uet_synopsis.aux" 1729641990.84707 3190 fd0cf49c86891dcf45d45a00aa9a393c "pdflatex"
+  "uet_synopsis.aux" 1729643110.38739 2981 f799d149a247b8d02f0aaf242e047966 "pdflatex"
   (generated)
   "uet_synopsis.bbl"
   "uet_synopsis.blg"
   (rewritten before read)
-["pdflatex"] 1729641990.36613 "/home/uneeb/University/Latex/Synopsis/uet_synopsis.tex" "uet_synopsis.pdf" "uet_synopsis" 1729641991.01814 0
+["pdflatex"] 1729643109.93374 "/home/uneeb/University/Latex/Synopsis/uet_synopsis.tex" "uet_synopsis.pdf" "uet_synopsis" 1729643110.56325 0
   "/home/uneeb/University/Latex/Synopsis/uet_synopsis.tex" 1729641990.2404 7212 e195bb891d08c0c54672bee5c208cfdf ""
   "/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1727349926 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1727349926 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -128,13 +128,13 @@
   "Chapters/Chapter7.tex" 1661367148 126 7cf78f34b237c23def0e1ac4b202c921 ""
   "Chapters/Chapter8.tex" 1661367174 136 0ce899eb948f062259b073d95f5aa2d0 ""
   "Chapters/Chapter9.tex" 1661367192 124 093003643b63a39364a12e27dbebc2f4 ""
-  "Figures/uet_logo.pdf" 1269537898 16175 b34a21cf77963fe4e80ea63ede4b4173 ""
-  "uet_synopsis.aux" 1729641990.84707 3190 fd0cf49c86891dcf45d45a00aa9a393c "pdflatex"
-  "uet_synopsis.bbl" 1729593529.30615 791 131979f7a2d6f20743eb1848201360e7 "bibtex uet_synopsis"
-  "uet_synopsis.out" 1729641990.84707 1779 322ea0fe426be5a9faf4eda20b9cb4ae "pdflatex"
+  "Figures/uet-logo.pdf" 1729642976.66167 35044 9298e3bde07863d7a00d59c93f42df35 ""
+  "uet_synopsis.aux" 1729643110.38739 2981 f799d149a247b8d02f0aaf242e047966 "pdflatex"
+  "uet_synopsis.bbl" 1729642731.8017 0 d41d8cd98f00b204e9800998ecf8427e "bibtex uet_synopsis"
+  "uet_synopsis.out" 1729643110.38739 1686 ffe4f83f393201e8fdb3b04a66f92ef8 "pdflatex"
   "uet_synopsis.tex" 1729641990.2404 7212 e195bb891d08c0c54672bee5c208cfdf ""
-  "uet_synopsis.toc" 1729641990.84707 880 5a416e0be3af0552bcb207910fa4a4fa "pdflatex"
-  "uet_thesis.cls" 1633034496 13221 99aeee7d3bf3c2a0f7a1f232de261edf ""
+  "uet_synopsis.toc" 1729643110.38739 829 ac8595d26661719ad1ca708384edc3ea "pdflatex"
+  "uet_thesis.cls" 1729643109.79071 13232 ed0fee62d128f848810cd82eb71e120a ""
   (generated)
   "uet_synopsis.aux"
   "uet_synopsis.log"

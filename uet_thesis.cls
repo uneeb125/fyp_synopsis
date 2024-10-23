@@ -184,7 +184,7 @@
       \vfill
 		\begin{figure}[h]
   		\centering
-    	\includegraphics{./Figures/uet_logo.pdf}
+    	\includegraphics[scale=1.1]{./Figures/uet-logo.pdf}
  		\end{figure}
 		\vfill
 %      {\Large {\bf Session:} \groupsession \par}
