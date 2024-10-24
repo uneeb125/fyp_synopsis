@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="174.54858mm"
+   height="82.643219mm"
+   viewBox="0 0 174.54858 82.643219"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   sodipodi:docname="block_diagram.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.94430186"
+     inkscape:cx="328.81435"
+     inkscape:cy="164.67192"
+     inkscape:window-width="1920"
+     inkscape:window-height="1060"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <rect
+       x="366.98767"
+       y="566.6557"
+       width="252.09486"
+       height="80.313408"
+       id="rect8" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-22.238552,-32.759345)">
+    <g
+       id="g1"
+       transform="translate(14.22795,-36.984996)">
+      <text
+         xml:space="preserve"
+         style="font-size:4.23333px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         x="21.642939"
+         y="77.410599"
+         id="text1"><tspan
+           sodipodi:role="line"
+           id="tspan1"
+           style="font-size:4.23333px;fill:#000000;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
+           x="21.642939"
+           y="77.410599">RTL Design</tspan></text>
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.591746;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         id="rect1"
+         width="49.66787"
+         height="11.383686"
+         x="8.4789972"
+         y="70.332581" />
+    </g>
+    <g
+       id="g2"
+       transform="translate(14.055428,-2.1084745)">
+      <text
+         xml:space="preserve"
+         style="font-size:4.23333px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         x="17.938768"
+         y="77.410599"
+         id="text2"><tspan
+           sodipodi:role="line"
+           id="tspan2"
+           style="font-size:4.23333px;fill:#000000;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
+           x="17.938768"
+           y="77.410599">Logic Synthesis</tspan></text>
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.591746;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         id="rect2"
+         width="49.66787"
+         height="11.383686"
+         x="8.4789972"
+         y="70.332581" />
+    </g>
+    <g
+       id="g3"
+       transform="translate(14.333295,33.390422)">
+      <text
+         xml:space="preserve"
+         style="font-size:4.23333px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         x="20.055437"
+         y="77.410599"
+         id="text3"><tspan
+           sodipodi:role="line"
+           id="tspan3"
+           style="font-size:4.23333px;fill:#000000;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
+           x="20.055437"
+           y="77.410599">Floorplanning</tspan></text>
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.591746;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         id="rect3"
+         width="49.66787"
+         height="11.383686"
+         x="8.4789972"
+         y="70.332581" />
+    </g>
+    <g
+       id="g4"
+       transform="translate(75.560277,33.31876)">
+      <text
+         xml:space="preserve"
+         style="font-size:4.23333px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         x="17.938768"
+         y="77.410599"
+         id="text4"><tspan
+           sodipodi:role="line"
+           id="tspan4"
+           style="font-size:4.23333px;fill:#000000;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
+           x="17.938768"
+           y="77.410599">Power Planning</tspan></text>
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.591746;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         id="rect4"
+         width="49.66787"
+         height="11.383686"
+         x="8.4789972"
+         y="70.332581" />
+    </g>
+    <g
+       id="g5"
+       transform="translate(75.267166,-2.1165777)">
+      <text
+         xml:space="preserve"
+         style="font-size:4.23333px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         x="18.997103"
+         y="77.410599"
+         id="text5"><tspan
+           sodipodi:role="line"
+           id="tspan5"
+           style="font-size:4.23333px;fill:#000000;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
+           x="18.997103"
+           y="77.410599">Special Route</tspan></text>
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.591746;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         id="rect5"
+         width="49.66787"
+         height="11.383686"
+         x="8.4789972"
+         y="70.332581" />
+    </g>
+    <g
+       id="g6"
+       transform="translate(138.34439,-36.999794)">
+      <text
+         xml:space="preserve"
+         style="font-size:4.23333px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         x="13.17627"
+         y="77.410599"
+         id="text6"><tspan
+           sodipodi:role="line"
+           id="tspan6"
+           style="font-size:4.23333px;fill:#000000;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
+           x="13.17627"
+           y="77.410599">Clock Tree Synthesis</tspan></text>
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.591746;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         id="rect6"
+         width="49.66787"
+         height="11.383686"
+         x="8.4789972"
+         y="70.332581" />
+    </g>
+    <g
+       id="g18"
+       transform="translate(74.990721,-37.277363)">
+      <text
+         xml:space="preserve"
+         style="font-size:4.23333px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         x="22.701273"
+         y="77.410599"
+         id="text7"><tspan
+           sodipodi:role="line"
+           id="tspan7"
+           style="font-size:4.23333px;fill:#000000;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
+           x="22.701273"
+           y="77.410599">Placement</tspan></text>
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.591746;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         id="rect7"
+         width="49.66787"
+         height="11.383686"
+         x="8.4789972"
+         y="70.332581" />
+    </g>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text8"
+       style="font-size:16px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect8);fill:none;fill-opacity:1;stroke:#000000;stroke-width:3.40157;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none" />
+    <g
+       id="g17"
+       transform="translate(131.09029,-28.24888)">
+      <text
+         xml:space="preserve"
+         style="font-size:4.23333px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         x="27.667807"
+         y="103.38232"
+         id="text15"><tspan
+           sodipodi:role="line"
+           id="tspan15"
+           style="font-size:4.23333px;fill:#000000;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
+           x="27.667807"
+           y="103.38232">Nano-Routing</tspan></text>
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.591746;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         id="rect15"
+         width="49.66787"
+         height="11.383686"
+         x="15.562194"
+         y="96.304298" />
+    </g>
+    <g
+       id="g16"
+       transform="translate(138.46884,-15.765205)">
+      <text
+         xml:space="preserve"
+         style="font-size:4.23333px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         x="25.815176"
+         y="126.4027"
+         id="text16"><tspan
+           sodipodi:role="line"
+           id="tspan16"
+           style="font-size:4.23333px;fill:#000000;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
+           x="25.815176"
+           y="126.4027">GDS-II</tspan></text>
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.591746;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         id="rect16"
+         width="49.66787"
+         height="11.383686"
+         x="7.888731"
+         y="119.32468" />
+    </g>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 47.512726,44.731271 -0.11621,23.492835"
+       id="path18"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#g1"
+       inkscape:connection-end="#g2" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 47.412913,79.607792 47.601674,103.723"
+       id="path19"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#g2"
+       inkscape:connection-end="#g3" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 72.480162,109.38578 11.559112,-0.0135"
+       id="path20"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#g3"
+       inkscape:connection-end="#g4" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 108.82613,103.65134 108.62718,79.599689"
+       id="path21"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#g4"
+       inkscape:connection-end="#g5" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 108.53535,68.216003 108.3484,44.438904"
+       id="path22"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#g5"
+       inkscape:connection-end="#g18" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 133.13759,38.855865 13.6858,0.05996"
+       id="path23"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#g18"
+       inkscape:connection-end="#g6" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 171.62931,44.716473 -0.11488,23.338945"
+       id="path24"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#g6"
+       inkscape:connection-end="#g17" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 171.43914,79.439104 -0.20036,24.120366"
+       id="path25"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#g17"
+       inkscape:connection-end="#g16" />
+  </g>
+</svg>

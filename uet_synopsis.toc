@@ -1,13 +1,14 @@
-\contentsline {chapter}{Abstract}{ii}{dummy.3}%
-\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.4}%
-\contentsline {chapter}{\numberline {2}Problem Statement}{3}{chapter.5}%
-\contentsline {chapter}{\numberline {3}Literature Review}{4}{chapter.6}%
-\contentsline {chapter}{\numberline {4}Project Overview and Objectives}{6}{chapter.7}%
-\contentsline {chapter}{\numberline {5}Project Development Methodology/Architecture}{7}{chapter.8}%
-\contentsline {chapter}{\numberline {6}Project Milestones and Deliverables}{8}{chapter.9}%
-\contentsline {chapter}{\numberline {7}Block Diagram}{9}{chapter.14}%
-\contentsline {chapter}{\numberline {8}Flow Chart}{10}{chapter.15}%
-\contentsline {chapter}{\numberline {9}Work Division}{11}{chapter.16}%
-\contentsline {chapter}{\numberline {10}Costing}{12}{chapter.17}%
+\contentsline {chapter}{Abbreviations}{ii}{dummy.3}%
+\contentsline {chapter}{Abstract}{iii}{dummy.6}%
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.7}%
+\contentsline {chapter}{\numberline {2}Problem Statement}{3}{chapter.8}%
+\contentsline {chapter}{\numberline {3}Literature Review}{4}{chapter.9}%
+\contentsline {chapter}{\numberline {4}Project Overview and Objectives}{6}{chapter.10}%
+\contentsline {chapter}{\numberline {5}Project Development Methodology/Architecture}{7}{chapter.11}%
+\contentsline {chapter}{\numberline {6}Project Milestones and Deliverables}{8}{chapter.12}%
+\contentsline {chapter}{\numberline {7}Block Diagram}{9}{chapter.18}%
+\contentsline {chapter}{\numberline {8}Flow Chart}{10}{chapter.19}%
+\contentsline {chapter}{\numberline {9}Work Division}{11}{chapter.20}%
+\contentsline {chapter}{\numberline {10}Costing}{12}{chapter.21}%
 \vspace {2em}
-\contentsline {chapter}{References}{13}{dummy.18}%
+\contentsline {chapter}{References}{13}{dummy.22}%

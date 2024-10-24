@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2024.9.29)  24 OCT 2024 13:28
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2024.9.29)  24 OCT 2024 15:07
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -690,7 +690,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 57.
 
-<./Figures/uet-logo.pdf, id=55, 127.47626pt x 127.47626pt>
+<./Figures/uet-logo.pdf, id=59, 127.47626pt x 127.47626pt>
 File: ./Figures/uet-logo.pdf Graphic file (type pdf)
 <use ./Figures/uet-logo.pdf>
 Package pdftex.def Info: ./Figures/uet-logo.pdf  used on input line 57.
@@ -720,10 +720,17 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 ]
 -------------------------------------------
- Abstract Page
+ Abbreviations
 -------------------------------------------
 [2
 
+
+
+]
+-------------------------------------------
+ Abstract Page
+-------------------------------------------
+[3
 
 ] (./Chapters/Chapter1.tex
 Chapter 1.
@@ -746,9 +753,9 @@ Chapter 3.
 -------------------------------------------
  3 Literature Review
 -------------------------------------------
-) [4
+[4
 
-] (./Chapters/Chapter4.tex [5]
+]) (./Chapters/Chapter4.tex [5]
 Chapter 4.
 -------------------------------------------
  4 Project Overview and Objectives
@@ -774,13 +781,13 @@ Chapter 7.
 -------------------------------------------
  7 Block Diagram
 -------------------------------------------
-<Figures/block diagram.pdf, id=133, 663.47874pt x 472.76625pt>
+<Figures/block diagram.pdf, id=147, 504.88625pt x 472.76625pt>
 File: Figures/block diagram.pdf Graphic file (type pdf)
 <use Figures/block diagram.pdf>
 Package pdftex.def Info: Figures/block diagram.pdf  used on input line 6.
-(pdftex.def)             Requested size: 417.47307pt x 297.47641pt.
+(pdftex.def)             Requested size: 417.47307pt x 390.91705pt.
 )
-Underfull \hbox (badness 10000) in paragraph at lines 6--133
+Underfull \hbox (badness 10000) in paragraph at lines 6--138
 
  []
 
@@ -791,19 +798,19 @@ Chapter 8.
 -------------------------------------------
  8 Flow Chart
 -------------------------------------------
-<Figures/demo.pdf, id=143, 570.13pt x 453.695pt>
-File: Figures/demo.pdf Graphic file (type pdf)
-<use Figures/demo.pdf>
-Package pdftex.def Info: Figures/demo.pdf  used on input line 6.
-(pdftex.def)             Requested size: 417.47307pt x 332.21225pt.
+<Figures/flow_chart.pdf, id=165, 496.85625pt x 235.88126pt>
+File: Figures/flow_chart.pdf Graphic file (type pdf)
+<use Figures/flow_chart.pdf>
+Package pdftex.def Info: Figures/flow_chart.pdf  used on input line 6.
+(pdftex.def)             Requested size: 417.47307pt x 198.19649pt.
 )
-Underfull \hbox (badness 10000) in paragraph at lines 6--135
+Underfull \hbox (badness 10000) in paragraph at lines 6--140
 
  []
 
 (./Chapters/Chapter9.tex [10
 
- <./Figures/demo.pdf>]
+ <./Figures/flow_chart.pdf>]
 Chapter 9.
 -------------------------------------------
  9 Work Division
@@ -830,21 +837,21 @@ LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
 Package rerunfilecheck Info: File `uet_synopsis.out' has not changed.
-(rerunfilecheck)             Checksum: 027BA6A9F895F7A55F46942DF957708B;1779.
+(rerunfilecheck)             Checksum: 8A52B375DB25A2AE054375ED61BAD810;1889.
  ) 
 Here is how much of TeX's memory you used:
- 16680 strings out of 476076
- 271080 string characters out of 5793775
- 1936187 words of memory out of 5000000
- 38445 multiletter control sequences out of 15000+600000
- 567830 words of font info for 73 fonts, out of 8000000 for 9000
+ 16669 strings out of 476076
+ 271099 string characters out of 5793775
+ 1935187 words of memory out of 5000000
+ 38435 multiletter control sequences out of 15000+600000
+ 563482 words of font info for 56 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  94i,11n,93p,1924b,506s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb>
-Output written on uet_synopsis.pdf (16 pages, 260713 bytes).
+Output written on uet_synopsis.pdf (17 pages, 269066 bytes).
 PDF statistics:
- 211 PDF objects out of 1000 (max. 8388607)
- 173 compressed objects within 2 object streams
- 38 named destinations out of 1000 (max. 500000)
- 124 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 232 PDF objects out of 1000 (max. 8388607)
+ 191 compressed objects within 2 object streams
+ 44 named destinations out of 1000 (max. 500000)
+ 132 words of extra memory for PDF output out of 10000 (max. 10000000)
 

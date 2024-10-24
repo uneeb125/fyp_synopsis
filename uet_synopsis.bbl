@@ -1,9 +1,14 @@
-\begin{thebibliography}{2}
+\begin{thebibliography}{3}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Acharya and Mehta(2022)]{acharya2022performance}
+D.~Acharya and U.~S. Mehta.
+\newblock {Performance Analysis of RTL to GDS-II Flow in Open-source Tool Qflow and Commercial Tool Cadence Encounter for Synchronous FIFO}.
+\newblock In \emph{2022 IEEE International Conference of Electron Devices Society Kolkata Chapter (EDKCON)}, 2022.
 
 \bibitem[Hill and Kahng(2004)]{hill2004guest}
 D.~Hill and A.~B. Kahng.
