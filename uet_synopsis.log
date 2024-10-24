@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2024.9.29)  24 OCT 2024 03:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2024.9.29)  24 OCT 2024 13:28
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -774,7 +774,7 @@ Chapter 7.
 -------------------------------------------
  7 Block Diagram
 -------------------------------------------
-<Figures/block diagram.pdf, id=130, 663.47874pt x 472.76625pt>
+<Figures/block diagram.pdf, id=133, 663.47874pt x 472.76625pt>
 File: Figures/block diagram.pdf Graphic file (type pdf)
 <use Figures/block diagram.pdf>
 Package pdftex.def Info: Figures/block diagram.pdf  used on input line 6.
@@ -791,7 +791,7 @@ Chapter 8.
 -------------------------------------------
  8 Flow Chart
 -------------------------------------------
-<Figures/demo.pdf, id=140, 570.13pt x 453.695pt>
+<Figures/demo.pdf, id=143, 570.13pt x 453.695pt>
 File: Figures/demo.pdf Graphic file (type pdf)
 <use Figures/demo.pdf>
 Package pdftex.def Info: Figures/demo.pdf  used on input line 6.
@@ -830,21 +830,21 @@ LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
 Package rerunfilecheck Info: File `uet_synopsis.out' has not changed.
-(rerunfilecheck)             Checksum: 322EA0FE426BE5A9FAF4EDA20B9CB4AE;1779.
+(rerunfilecheck)             Checksum: 027BA6A9F895F7A55F46942DF957708B;1779.
  ) 
 Here is how much of TeX's memory you used:
- 16674 strings out of 476076
- 270990 string characters out of 5793775
+ 16680 strings out of 476076
+ 271080 string characters out of 5793775
  1936187 words of memory out of 5000000
- 38443 multiletter control sequences out of 15000+600000
+ 38445 multiletter control sequences out of 15000+600000
  567830 words of font info for 73 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  94i,11n,93p,1924b,506s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb>
-Output written on uet_synopsis.pdf (16 pages, 276258 bytes).
+</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb>
+Output written on uet_synopsis.pdf (16 pages, 260713 bytes).
 PDF statistics:
- 209 PDF objects out of 1000 (max. 8388607)
- 169 compressed objects within 2 object streams
- 34 named destinations out of 1000 (max. 500000)
+ 211 PDF objects out of 1000 (max. 8388607)
+ 173 compressed objects within 2 object streams
+ 38 named destinations out of 1000 (max. 500000)
  124 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -286,6 +286,34 @@ INPUT ./Chapters/Chapter6.tex
 INPUT ./Chapters/Chapter6.tex
 INPUT ./Chapters/Chapter6.tex
 INPUT ./Chapters/Chapter6.tex
+INPUT ./Chapters/Chapter7.tex
+INPUT ./Chapters/Chapter7.tex
+INPUT ./Chapters/Chapter7.tex
+INPUT ./Chapters/Chapter7.tex
+INPUT ./Chapters/Chapter7.tex
+INPUT ./Figures/block diagram.pdf
+INPUT ./Figures/block diagram.pdf
+INPUT ./Figures/block diagram.pdf
+INPUT ./Figures/block diagram.pdf
+INPUT ./Chapters/Chapter8.tex
+INPUT ./Chapters/Chapter8.tex
+INPUT ./Chapters/Chapter8.tex
+INPUT ./Chapters/Chapter8.tex
+INPUT ./Chapters/Chapter8.tex
+INPUT ./Figures/demo.pdf
+INPUT ./Figures/demo.pdf
+INPUT ./Figures/demo.pdf
+INPUT ./Figures/demo.pdf
+INPUT ./Chapters/Chapter9.tex
+INPUT ./Chapters/Chapter9.tex
+INPUT ./Chapters/Chapter9.tex
+INPUT ./Chapters/Chapter9.tex
+INPUT ./Chapters/Chapter9.tex
+INPUT ./Chapters/Chapter10.tex
+INPUT ./Chapters/Chapter10.tex
+INPUT ./Chapters/Chapter10.tex
+INPUT ./Chapters/Chapter10.tex
+INPUT ./Chapters/Chapter10.tex
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm
@@ -303,34 +331,6 @@ INPUT /usr/share/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam7.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
-INPUT ./Chapters/Chapter7.tex
-INPUT ./Chapters/Chapter7.tex
-INPUT ./Chapters/Chapter7.tex
-INPUT ./Chapters/Chapter7.tex
-INPUT ./Chapters/Chapter7.tex
-INPUT ./Figures/block diagram.pdf
-INPUT ./Figures/block diagram.pdf
-INPUT ./Figures/block diagram.pdf
-INPUT ./Figures/block diagram.pdf
-INPUT ./Chapters/Chapter8.tex
-INPUT ./Chapters/Chapter8.tex
-INPUT ./Chapters/Chapter8.tex
-INPUT ./Chapters/Chapter8.tex
-INPUT ./Chapters/Chapter8.tex
-INPUT ./Figures/demo.pdf
-INPUT ./Figures/demo.pdf
-INPUT ./Figures/demo.pdf
-INPUT ./Figures/demo.pdf
-INPUT ./Chapters/Chapter9.tex
-INPUT ./Chapters/Chapter9.tex
-INPUT ./Chapters/Chapter9.tex
-INPUT ./Chapters/Chapter9.tex
-INPUT ./Chapters/Chapter9.tex
-INPUT ./Chapters/Chapter10.tex
-INPUT ./Chapters/Chapter10.tex
-INPUT ./Chapters/Chapter10.tex
-INPUT ./Chapters/Chapter10.tex
-INPUT ./Chapters/Chapter10.tex
 INPUT ./uet_synopsis.bbl
 INPUT ./uet_synopsis.bbl
 INPUT uet_synopsis.bbl
@@ -341,6 +341,5 @@ INPUT /usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 INPUT /usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 INPUT /usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
 INPUT /usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb
-INPUT /usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
 INPUT /usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb
 INPUT /usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb
